@@ -41,9 +41,7 @@ O LCD mostrará os valores captados pelo sensor, que também estarão na memóri
 
 ## Autores
 Projeto desenvolvido para a matéria de Edge Computing do Professor Fabio Cabrini, por: 
-Felipe Genistretti Rodrigues;
 Nicolle Pellegrino Jelinski;
-Renan Simões Gonçalves
 
 
 # Code
